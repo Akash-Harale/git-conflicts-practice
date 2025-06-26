@@ -4,7 +4,7 @@ export default function Home() {
     <div>
       <h1 className="text-5xl">
         Akash&apos;s - commit - directly into main branch
-        Akash
+        Divya&apos;s- commit into divya branch
       </h1>
     </div>
   );
